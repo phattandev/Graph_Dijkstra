@@ -1,0 +1,3 @@
+﻿  Source.cpp
+D:\STU\CTDL & GT\Đồ thị\THUC HANH CTDL&GT\Dijkstra\Dijkstra\Source.cpp(96,17): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Dijkstra.vcxproj -> D:\STU\CTDL & GT\Đồ thị\THUC HANH CTDL&GT\Dijkstra\x64\Debug\Dijkstra.exe
